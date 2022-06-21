@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1080748435384-eug9ale8079jsp39b11vv6r3jg9vqp90.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1080748435384-eug9ale8079jsp39b11vv6r3jg9vqp90</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJjdKK3IlrgjRWaz0ibOsXhQf_I8xOpIM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1080748435384</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.trippyllc.widgetsapp</string>
+	<key>PROJECT_ID</key>
+	<string>notification-test-23c72</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notification-test-23c72.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1080748435384:ios:ca356a50881380c0d7514d</string>
+</dict>
+</plist>
